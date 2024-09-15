@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Aero',
 
-  projectId: 'nki8asat',
+  projectId: 'ncineimv',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
